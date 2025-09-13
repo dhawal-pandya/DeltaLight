@@ -53,8 +53,7 @@ function App() {
       <Starfield />
       <div className="relative z-10 flex flex-col items-center justify-between min-h-screen p-4 text-center">
         <header>
-          <h1 className="text-5xl font-bold tracking-wider">DeltaLight</h1>
-          <p className="text-lg text-gray-400">How fast is light?</p>
+          <h1 className="text-5xl tracking-wider">DeltaLight</h1>
         </header>
 
         <main className="flex flex-col items-center gap-4 w-full max-w-md">
