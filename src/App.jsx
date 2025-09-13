@@ -54,7 +54,7 @@ function App() {
       <div className="relative z-10 flex flex-col items-center justify-between min-h-screen p-4 text-center">
         <header>
           <h1 className="text-5xl font-bold tracking-wider">DeltaLight</h1>
-          <p className="text-lg text-gray-400">How fast is fast?</p>
+          <p className="text-lg text-gray-400">How fast is light?</p>
         </header>
 
         <main className="flex flex-col items-center gap-4 w-full max-w-md">
