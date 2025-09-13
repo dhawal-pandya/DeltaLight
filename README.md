@@ -2,9 +2,9 @@
 
 **How fast is light? A sleek, interactive calculator to convert vast (and minuscule) distances into the time it takes for light to travel them.**
 
-I made it because I once was speaking with a friend and I had sent him my location and he marked "673 km" and said close enough, and I immediately thought, huh, I wonder how much light would take to cross that much. So yeah, here we are, go nut.
+I made it because I once was speaking with a friend and I had sent him my location and he marked '673 km' on the image and said "close enough", and I immediately thought, huh, I wonder how much light would take to cross that much. So yeah, here we are, go nut.
 
-![DeltaLight Screenshot]()
+![DeltaLight Screenshot](https://github.com/dhawal-pandya/DeltaLight/blob/main/src/assets/image.png)
 
 ## ✨ Features
 
